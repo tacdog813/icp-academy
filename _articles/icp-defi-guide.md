@@ -150,3 +150,5 @@ ICP DeFi offers a robust and secure platform for decentralized finance, combinin
 By following the steps outlined in this guide, you can effectively navigate the ICP ecosystem, from acquiring ICP tokens and creating an Internet Identity to managing tokens and engaging in DeFi activities.
 
 Following best practices ensures that your experience is both secure and rewarding, allowing you to fully leverage the potential of this innovative blockchain platform.
+
+For more guides and updates subscribe to out Newsletter below.
