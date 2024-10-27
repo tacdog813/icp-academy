@@ -7,9 +7,6 @@ difficulty: Beginner
 tags: ["Web3", "Identity", "Blockchain", "ICP"]
 ---
 
-# Account
-
----
 
 Account Address on ICP also known as Ledger Account is a wallet address represented with string of text, used in identification of account owned by users or other entities for transaction of digital assets.
 
@@ -24,7 +21,6 @@ Let's break down the components and significance of an Account Address on ICP:
 ### Principal ID vs. Account Address
 
 - **Principal ID:** The foundational identifier on the Internet Computer, known as the Principal ID, is a unique string assigned to entities (users, nodes, canisters) that can interact with the ICP blockchain. It serves various roles, including authentication and verification processes.
-
 Example: **`nfxu4-cn7qt-x7r3c-5dhnk-dcrct-gmgoz-67gcg-5glvc-2krhv-gcmsr-qqe`**
 
 - **Account Address:** Derived from the Principal ID, an Account Address is used explicitly for ledger transactions. While the Principal ID acts more like a universal identifier within the ICP network, the Account Address is transaction-specific, facilitating the management and transfer of ICP tokens and other digital assets.
