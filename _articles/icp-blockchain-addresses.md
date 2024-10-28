@@ -14,7 +14,7 @@ tags: ["Web3", "Crypto", "DLT", "Blockchain"]
 readTime: "15 min"
 ---
 
-# Intro to ICP Blockchain Addresses
+# Introduction to ICP Blockchain Addresses
 
 ## Blockchain Addresses and Internet Computer
 
@@ -30,9 +30,7 @@ These addresses are used to identify and access details of a particular wallet o
 **Internet Computer Address:**
 
 - **Principal:** `nfxu4-cn7qt-x7r3c-5dhnk-dcrct-gmgoz-67gcg-5glvc-2krhv-gcmsr-qqe`
-    
-    
-    - **Legacy address:** `c19748cd2fd01ab1f87d0831bcd622b0ed5391267773b72322165798ca7a116a`
+- **Legacy address:** `c19748cd2fd01ab1f87d0831bcd622b0ed5391267773b72322165798ca7a116a`
 
 **Ethereum** Wallet Address Example: `0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`
 
@@ -51,9 +49,9 @@ Almost all blockchains have similar address structure with numbers and strings o
 
 *“A “[principal](https://en.wikipedia.org/wiki/Principal_(computer_security))” is someone who can interact with a computer system and can be identified for this purpose”*
 
-**Principal can be thought of as an unique ID assigned to a principal (an entity) which can be used to authenticate, verify or sign access to resources or other users.**
+Principal can be thought of as an unique ID assigned to a principal (an entity) which can be used to authenticate, verify or sign access to resources or other users.
 
-**It is a series of 53 characters separated by hyphen**
+It is a series of 53 characters separated by hyphen
 
 Example: nfxu4-cn7qt-x7r3c-5dhnk-dcrct-gmgoz-67gcg-5glvc-2krhv-gcmsr-qqe
 
@@ -61,7 +59,7 @@ Example: nfxu4-cn7qt-x7r3c-5dhnk-dcrct-gmgoz-67gcg-5glvc-2krhv-gcmsr-qqe
 
 Here a Principal unique to the user, which is not confidential, generates an Account address with cryptographic protocols, which can be used to hold or transact ICP tokens or other digital assets.
 
-**Example Legacy address: c19748cd2fd01ab1f87d0831bcd622b0ed5391267773b72322165798ca7a116a**
+**Example Legacy address:** c19748cd2fd01ab1f87d0831bcd622b0ed5391267773b72322165798ca7a116a
 
 If the application supports, the principal can be used to transact assets as well, which has a default account address derived from subaccount number 0.
 
@@ -71,7 +69,7 @@ Account addresses can have only one Principal ID and on ICP, principal ID can be
 
 This design adds more compartmentalization and privacy to managing assets or for interacting with Internet Computer Blockchain
 
-**Principal ID can be thought of as a public key, which along with its private key, makes up Identity**
+**Principal ID** can be thought of as a public key, which **along with its private key, makes up Identity**
 
 *You could install multiple identities on your machine, and each identity can have a name.*
 
@@ -85,8 +83,7 @@ It is a series of 64 characters similar to wallet addresses on other blockchains
 
 A principal can be used to derive multiple account IDs using sub account numbers.
 
-
-**However an account id can have only one principal ID. Users can**
+However an account id can have only one principal ID. Users can
 
 **Legacy address:**
 
@@ -104,11 +101,10 @@ Each application supports different protocols and addresses.
 
 Be careful before you send or receive any tokens and make sure the application recognizes and supports the assets.
 
-
 **On Ethereum blockchain, a user’s identity and account address remain the same across all the applications they interact with, which could compromise their privacy.**
 
-
 ## Internet Identity
+
 To combat the issue of memorizing or creating separate ids for every application on ICP, DFINITY designed and released Internet Identity.
 
 **Internet Identity is how an user can create Principal Id and authenticate with multiple other dapps with a single private key.**
@@ -128,7 +124,6 @@ In conclusion, Internet Identity can be imagined as a wallet which you can use t
 **Some apps allow you to directly create accounts i.e. Principal ID without using an Internet Identity.**
 
 They can use only seed phrases (private keys) to manage access to your accounts. This further adds security by allowing users to create new accounts natively in the application, increasing flexibiility too.
-
 
 ## Summary
 
