@@ -1,5 +1,5 @@
 ---
-slug: "kyc"
+slug: "KYC"
 title: "KYC"
 description: "Know Your Customer (KYC) is a regulatory process where financial institutions and other service providers verify the identity of their clients or customers."
 content: "Know Your Customer (KYC) is a regulatory process where financial institutions and other service providers verify the identity of their clients or customers."

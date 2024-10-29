@@ -1,5 +1,5 @@
 ---
-slug: "Address"
+slug: "address"
 title: "Address"
 description: "A blockchain address is a unique string of alphanumeric characters that serves as an identifier for sending and receiving digital assets on a blockchain network"
 content: "A blockchain address is a unique string of alphanumeric characters that serves as an identifier for sending and receiving digital assets on a blockchain network. Derived from a user's public key, it ensures that transactions are directed to the correct recipient securely and transparently within the decentralized ledger system."
@@ -7,7 +7,6 @@ difficulty: "Beginner"
 tags: ["Web3", "Identity", "Wallet", "Blockchain"]
 ---
 
-# Address
 
 In the world of blockchain, think of addresses as special codes that let you send or receive digital money and collectibles, like tokens and unique digital art known as NFTs. Imagine these addresses as your digital mailbox for cryptocurrencies and collectibles, where each address is a unique string of text created to keep your digital transactions secure.
 
