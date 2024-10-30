@@ -1,8 +1,13 @@
 ---
 slug: "swaps"
 title: "Swaps"
+<<<<<<< HEAD
 description: "**Token swaps** refer to the process of exchanging one cryptocurrency for another, either through centralized exchanges (CEXs) or decentralized exchanges (DEXs), without the need to convert the tokens into fiat currency first"
 content: "**Token swaps** refer to the process of exchanging one cryptocurrency for another, either through centralized exchanges (CEXs) or decentralized exchanges (DEXs), without the need to convert the tokens into fiat currency first."
+=======
+description: "Token swaps refer to the process of exchanging one cryptocurrency for another, either through centralized exchanges (CEXs) or decentralized exchanges (DEXs), without the need to convert the tokens into fiat currency first"
+content: "Token swaps refer to the process of exchanging one cryptocurrency for another, either through centralized exchanges (CEXs) or decentralized exchanges (DEXs), without the need to convert the tokens into fiat currency first."
+>>>>>>> c4f9acafe1e22de9e9abe0a94151fda6d967be4c
 difficulty: Beginner
 tags: ["Web3", "Blockchain", "DeFi"]
 ---

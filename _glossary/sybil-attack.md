@@ -1,8 +1,8 @@
 ---
 slug: "sybil-attack"
 title: "Sybil Attack"
-description: "A **Sybil attack** is a malicious attempt to take control of a decentralized network by creating multiple fake identities, often to influence voting or skew consensus mechanism"
-content: "A **Sybil attack** is a malicious attempt to take control of a decentralized network by creating multiple fake identities, often to influence voting or skew consensus mechanisms. In essence, one attacker pretends to be many participants, manipulating the system to gain power or disrupt operations"
+description: "A Sybil attack is a malicious attempt to take control of a decentralized network by creating multiple fake identities, often to influence voting or skew consensus mechanism"
+content: "A Sybil attack is a malicious attempt to take control of a decentralized network by creating multiple fake identities, often to influence voting or skew consensus mechanisms. In essence, one attacker pretends to be many participants, manipulating the system to gain power or disrupt operations"
 difficulty: Beginner
 tags: ["Web3", "Identity", "Blockchain", "DeFi"]
 ---

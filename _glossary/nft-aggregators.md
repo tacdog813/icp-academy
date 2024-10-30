@@ -1,8 +1,13 @@
 ---
 slug: "nft-aggregators"
 title: "NFT Aggregators"
+<<<<<<< HEAD
 description: "**NFT aggregators** are platforms that consolidate data, listings, and marketplaces for **non-fungible tokens (NFTs)**, making it easier for users to discover, buy, sell, and manage NFTs across multiple blockchains and platforms from a single interface"
 content: "**NFT aggregators** are platforms that consolidate data, listings, and marketplaces for **non-fungible tokens (NFTs)**, making it easier for users to discover, buy, sell, and manage NFTs across multiple blockchains and platforms from a single interface"
+=======
+description: "NFT aggregators are platforms that consolidate data, listings, and marketplaces for non-fungible tokens (NFTs), making it easier for users to discover, buy, sell, and manage NFTs across multiple blockchains and platforms from a single interface"
+content: "NFT aggregators are platforms that consolidate data, listings, and marketplaces for non-fungible tokens (NFTs), making it easier for users to discover, buy, sell, and manage NFTs across multiple blockchains and platforms from a single interface"
+>>>>>>> c4f9acafe1e22de9e9abe0a94151fda6d967be4c
 difficulty: Beginner
 tags: ["Web3", "Identity", "Blockchain", "ICP"]
 ---
