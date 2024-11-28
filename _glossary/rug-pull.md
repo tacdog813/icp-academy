@@ -9,9 +9,28 @@ tags: ["Web3", "DeFi", "Blockchain", "ICP"]
 
 A **rug pull** is a type of exit scam in the cryptocurrency and decentralized finance (DeFi) space where developers or project creators abandon a project after pocketing investors’ funds, leaving holders with worthless tokens or assets.
 
-It’s like pulling the rug out from under investors—hence the name. Rug pulls typically happen in DeFi projects, especially in token launches or liquidity pools, where trustless transactions are key but trust in the developers can be exploited.
+It’s [like pulling](https://x.com/notifications) the rug out from under investors—hence the name. Rug pulls typically happen in DeFi projects, especially in token launches or liquidity pools, where trustless transactions are key but trust in the developers can be exploited.
 
 Rug pulls usually occur when a project's creators list a token on a decentralized exchange (DEX) and pair it with a more stable cryptocurrency like Ethereum (ETH). They promote the project heavily to attract investors and boost liquidity. Once enough funds are pooled, the creators withdraw their stake, drain the liquidity, and vanish, leaving investors unable to sell their now worthless tokens.
+
+> joe mama hwo
+
+ ![alt text](https://www.nvinoticias.com/sites/default/files/styles/medium/public/inline-images/migracion/notas/2021/03/30/weqwewq.jpg.webp?itok=9Bu_e5Kt)
+
+sadsa
+
+1. dasdjsad
+    - sdasakdasdkasdsamdsamdsmadsamdsamdasdasdmasdmsamdasmdmasdsmadnqw  qweiowqieiqwo nksnd i92qeqwoen wq jwdjoisankdnskadnsa jksadjksaodnqw ojpwqejwqke dfawoeio pwqdjaklsmndkl samdklsajdksadiwqj  wqie ocksad 0qwid amdlksadjow jkwqndkmnkwhdiou qiowd qwdjq ji qeuiopqwje qwjd qq wdwqoeqwedhqwioeyhqo0euifhnkdjbngijwuh 
+
+asdsad
+
+| Name         | Age | Occupation      | Location       |
+|--------------|-----|-----------------|----------------|
+| John Doe     | 25  | Software Engineer | New York, USA |
+| Jane Smith   | 30  | Data Scientist  | London, UK     |
+| Alice Johnson| 28  | Product Manager | Berlin, Germany|
+| Bob Brown    | 35  | Designer        | Tokyo, Japan   |
+
 
 **Types of Rug Pulls:**
 
